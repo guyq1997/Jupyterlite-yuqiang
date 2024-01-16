@@ -12,3 +12,4 @@ dependencies:
   - seaborn
   - boto3
   - json
+  - jupyterlab-webrtc-docprovider
