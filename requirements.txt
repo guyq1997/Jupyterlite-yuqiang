@@ -48,6 +48,7 @@ ipyleaflet
 plotly>=5,<6
 bqplot
 
+jupyterlab-webrtc-docprovider
 ipywidgets
 plotly
 basemap
