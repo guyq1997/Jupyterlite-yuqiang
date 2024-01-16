@@ -50,3 +50,5 @@ bqplot
 
 ipywidgets
 plotly
+basemap
+seaborn
