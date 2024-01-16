@@ -1,4 +1,4 @@
-jupyterlab-webrtc-docprovider
+jupyterlab-webrtc-docprovider == 0.1.1
 # Core modules (mandatory)
 jupyterlite-core==0.2.2
 jupyterlab~=4.0.9
