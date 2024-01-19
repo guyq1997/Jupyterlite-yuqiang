@@ -1,4 +1,4 @@
-
+jupyterlab-filesystem-access
 jupyterlab-webrtc-docprovider == 0.1.1
 
 # Core modules (mandatory)
