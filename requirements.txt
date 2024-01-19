@@ -1,4 +1,5 @@
 jupyterlab-filesystem-access
+jupyterlab-webrtc-docprovider
 
 # Core modules (mandatory)
 jupyterlite-core==0.2.2
